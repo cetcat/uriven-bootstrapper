@@ -1,0 +1,11 @@
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\deps\libipnet-8f44f82381ad5911.rmeta: C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs
+
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\deps\libipnet-8f44f82381ad5911.rlib: C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs
+
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\deps\ipnet-8f44f82381ad5911.d: C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs
+
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs:

@@ -1,0 +1,11 @@
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\deps\libcolored-46ac96011ae7fa19.rmeta: C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\deps\libcolored-46ac96011ae7fa19.rlib: C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\deps\colored-46ac96011ae7fa19.d: C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs
+
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\lib.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\color.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\control.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\style.rs:
+C:\Users\cat\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.0.4\src\customcolors.rs:

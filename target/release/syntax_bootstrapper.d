@@ -1,0 +1,1 @@
+C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\release\syntax_bootstrapper.exe: C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\build.rs C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\src\main.rs C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\release\build\syntax_bootstrapper-fc2411ceda6429f3\out\build_date.txt
