@@ -356,7 +356,7 @@ MimeType=x-scheme-handler/uriven-player;", latest_bootstrapper_path.to_str().unw
         info("Finished extracting files, cleaning up.");
         std::fs::remove_dir_all(&temp_downloads_directory).unwrap();
 
-        // Install the syntax-player scheme in the registry
+        // Install the uriven-player scheme in the registry
         info("Installing uriven-player scheme");
         #[cfg(target_os = "windows")]
         {
@@ -411,7 +411,7 @@ MimeType=x-scheme-handler/uriven-player;", latest_bootstrapper_path.to_str().unw
     }
 
     // Parse the arguments passed to the bootstrapper
-    // Looks something like "syntax-player://1+launchmode:play+gameinfo:TICKET+placelauncherurl:https://www.syntax.eco/Game/placelauncher.ashx?placeId=660&t=TICKET+k:l"
+    // Looks something like "uriven-player://1+launchmode:play+gameinfo:TICKET+placelauncherurl:https://www.uriven.com/Game/placelauncher.ashx?placeId=660&t=TICKET+k:l"
     debug(&format!("Arguments Passed: {}", args.join(" ").bright_blue()));
     if args.len() == 1 {
         // Just open the website
