@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\build\typenum-ef2422867a90bc46\out\consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\cat\Downloads\syntaxsource\syntax-bootstrapper\target\i686-pc-windows-msvc\release\build\typenum-ef2422867a90bc46\out\op.rs
